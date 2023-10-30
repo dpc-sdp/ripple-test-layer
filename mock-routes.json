@@ -1,0 +1,10 @@
+[
+  {
+    "path": "/",
+    "fixture": "landing-page/example.json"
+  },
+  {
+    "path": "/example-content-type",
+    "fixture": "content-type/example.json"
+  }
+]
