@@ -1,0 +1,842 @@
+{
+  "title": "Demo Landing Page",
+  "changed": "2026-04-21T18:09:18+10:00",
+  "created": "2026-04-21T18:09:18+10:00",
+  "type": "landing_page",
+  "nid": "11dede11-10c0-111e1-1100-000000000330",
+  "_sectionId": "9204",
+  "sidebar": {
+    "contacts": [
+      {
+        "id": "b732e301-68a0-4217-b8eb-39598240878d",
+        "contactTitle": "Victorian Government",
+        "contactName": "Victorian Government",
+        "department": "Department of Premier and Cabinet",
+        "email": "no-reply@vic.gov.au",
+        "locationAddress": {
+          "countryCode": "AU",
+          "administrativeArea": "VIC",
+          "locality": "Melbourne",
+          "postalCode": "3001",
+          "addressLine1": "Department of Premier and Cabinet",
+          "addressLine2": "GPO Box 4509"
+        },
+        "postalAddress": {
+          "countryCode": "AU",
+          "administrativeArea": "VIC",
+          "locality": "Melbourne",
+          "postalCode": "3001",
+          "addressLine1": "Department of Premier and Cabinet",
+          "addressLine2": "GPO Box 4509"
+        },
+        "phones": [
+          {
+            "id": "6b5fe88e-f4bd-40b0-8563-ecd228bd0ef8",
+            "title": "Calls in Australia",
+            "number": "1300 366 356"
+          },
+          {
+            "id": "20344e85-9446-4ba1-a125-d5308c8d0963",
+            "title": "Calls from overseas",
+            "number": "+61 3 9603 8804"
+          }
+        ],
+        "socialMedia": [
+          {
+            "id": "d346d86a-1fed-4b51-bdea-b9b769f3bdaf",
+            "type": "twitter",
+            "text": "Twitter",
+            "url": "https://twitter.com/VicGovAu"
+          }
+        ]
+      }
+    ],
+    "relatedLinks": [
+      {
+        "id": "d20fdd7f-3f11-4f36-bbcd-0c78fa906530",
+        "text": "State Government of Victoria",
+        "url": "https://www.vic.gov.au"
+      },
+      {
+        "id": "0ecc1b53-85f3-4a20-8f3f-a7b2011074df",
+        "text": "Department of Premier and Cabinet",
+        "url": "https://www.vic.gov.au/department-premier-and-cabinet"
+      }
+    ],
+    "whatsNext": [
+      {
+        "id": "f9073bf7-1d6c-489c-9561-cf39bdbe4022",
+        "text": "State Government of Victoria",
+        "url": "https://www.vic.gov.au"
+      },
+      {
+        "id": "4fd5c24a-dedc-4547-a916-2e570dc22ce7",
+        "text": "Department of Premier and Cabinet",
+        "url": "https://www.vic.gov.au/department-premier-and-cabinet"
+      }
+    ],
+    "socialShareNetworks": ["Facebook", "X", "LinkedIn"],
+    "siteSectionNav": {
+      "title": "Site-section Navigation",
+      "items": [
+        {
+          "text": "Demo Landing Page",
+          "url": "/demo-landing-page",
+          "id": "c9b2419b-c89d-4a43-87de-f991291c4894",
+          "parent": null,
+          "weight": 0,
+          "items": [
+            {
+              "text": "2.1 Accessibility - demo",
+              "url": "/accessibility-demo",
+              "id": "8253f443-26f2-4473-8f68-c97084aad339",
+              "parent": "c9b2419b-c89d-4a43-87de-f991291c4894",
+              "weight": 0
+            },
+            {
+              "text": "2.2 Copyright - demo",
+              "url": "/copyright-demo",
+              "id": "22a89193-3311-4e90-8220-fbe2bfc0af6b",
+              "parent": "c9b2419b-c89d-4a43-87de-f991291c4894",
+              "weight": 0
+            },
+            {
+              "text": "2.3 Disclaimer - demo",
+              "url": "/disclaimer-demo",
+              "id": "c9b2419b-c89d-4a43-87de-f991291c5000",
+              "parent": "c9b2419b-c89d-4a43-87de-f991291c4894",
+              "weight": 0,
+              "items": [
+                {
+                  "text": "3.x Find, connect, shape your Victorian Government - demo",
+                  "url": "/find-connect-shape-your-victorian-government-demo",
+                  "id": "c9b2419b-c89d-4a43-87de-f991291c9000",
+                  "parent": "c9b2419b-c89d-4a43-87de-f991291c5000",
+                  "weight": 0,
+                  "items": [
+                    {
+                      "text": "4.x Many Talents One VCE - demo",
+                      "url": "/many-talents-one-vce-demo",
+                      "id": "eeee066e-b420-4365-91f6-4c2dfdc6abfd",
+                      "parent": "c9b2419b-c89d-4a43-87de-f991291c9000",
+                      "weight": 0
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "2.4 Working in the CMS - demo",
+              "url": "/working-cms-demo",
+              "id": "21e07dad-8f75-4515-8704-8b97ade56e9c",
+              "parent": "c9b2419b-c89d-4a43-87de-f991291c4894",
+              "weight": 0
+            }
+          ],
+          "active": true
+        },
+        {
+          "text": "Events",
+          "url": "/2-be-event-1",
+          "id": "c9b2419b-c89d-4a43-87de-f991291c4896",
+          "parent": null,
+          "weight": 0,
+          "items": [
+            {
+              "text": "Kensington Primary School - information session - demo",
+              "url": "/kensington-primary-school-information-session-demo",
+              "id": "c2d3e178-cb3f-4364-8d01-21e73356b482",
+              "parent": "c9b2419b-c89d-4a43-87de-f991291c4896",
+              "weight": 0
+            },
+            {
+              "text": "Roulette Aerial Display - demo",
+              "url": "/roulette-aerial-display-demo",
+              "id": "baabbbaf-1aa1-439e-8d28-b4540c34820d",
+              "parent": "c9b2419b-c89d-4a43-87de-f991291c4896",
+              "weight": 0
+            },
+            {
+              "text": "The Trades Fit: Young Women in Trades and Tech - demo",
+              "url": "/trades-fit-young-women-trades-and-tech-demo",
+              "id": "a85f4762-0718-4d4d-9778-04ca5054f26a",
+              "parent": "c9b2419b-c89d-4a43-87de-f991291c4896",
+              "weight": 0
+            }
+          ]
+        },
+        {
+          "text": "News",
+          "url": "/demo-news",
+          "id": "c9b2419b-c89d-4a43-87de-f991291c4895",
+          "parent": null,
+          "weight": 0,
+          "items": [
+            {
+              "text": "FIRST-OF-ITS-KIND EXHIBITION CELEBRATES THE SERVICE OF LGBTQ+ DEFENCE PERSONNEL - demo",
+              "url": "/first-its-kind-exhibition-celebrates-service-lgbtq-defence-personnel-demo",
+              "id": "49937e70-0846-45d8-972f-cf34f7b9d35e",
+              "parent": "c9b2419b-c89d-4a43-87de-f991291c4895",
+              "weight": 0
+            },
+            {
+              "text": "GovHack 2022 is coming soon - Connections Event and Hack weekend - demo",
+              "url": "/govhack-2022-coming-soon-connections-event-and-hack-weekend-demo",
+              "id": "2014543e-e1c7-4a53-8825-491a1920fdb2",
+              "parent": "c9b2419b-c89d-4a43-87de-f991291c4895",
+              "weight": 0
+            },
+            {
+              "text": "Wage Inspectorate helps 15,000 Victorians in first year - demo",
+              "url": "/wage-inspectorate-helps-15000-victorians-first-year-demo",
+              "id": "182836db-df10-4cf1-904c-e6340321892d",
+              "parent": "c9b2419b-c89d-4a43-87de-f991291c4895",
+              "weight": 0
+            }
+          ]
+        },
+        {
+          "text": "Publications",
+          "url": "/17-be-pub-page-1-child-page-chapter-1-page-1",
+          "id": "c9b2419b-c89d-4a43-87de-f991291c4897",
+          "parent": null,
+          "weight": 0,
+          "items": [
+            {
+              "text": "17-BE-pub-1 Create Parent Page",
+              "url": "/17-be-pub-1-create-parent-page",
+              "id": "c9b2419b-c89d-4a43-87de-f991291c9020",
+              "parent": "c9b2419b-c89d-4a43-87de-f991291c4897",
+              "weight": 0,
+              "items": [
+                {
+                  "text": "17-BE-pub-page-1 Child Page",
+                  "url": "/17-be-pub-1-create-parent-page/17-be-pub-page-1-child-page",
+                  "id": "5cbd3533-0fe1-4157-8d58-31441f4674b8",
+                  "parent": "c9b2419b-c89d-4a43-87de-f991291c9020",
+                  "weight": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "status": "published",
+  "breadcrumbs": [],
+  "topicTags": [
+    {
+      "text": "Demo Topic",
+      "url": "/topic/demo-topic"
+    },
+    {
+      "text": "Demo Tag",
+      "url": "/tags/demo-tag"
+    },
+    {
+      "text": "Another Demo Tag",
+      "url": "/tags/another-demo-tag"
+    }
+  ],
+  "tags": [
+    {
+      "text": "Demo Tag",
+      "url": "/tags/demo-tag"
+    },
+    {
+      "text": "Another Demo Tag",
+      "url": "/tags/another-demo-tag"
+    }
+  ],
+  "topic": {
+    "text": "Demo Topic",
+    "url": "/topic/demo-topic"
+  },
+  "header": {
+    "title": "Demo Landing Page",
+    "summary": "Nulla ultricies dignissim leo, posuere vestibulum erat cursus vitae",
+    "links": {
+      "title": "Want to know more about...",
+      "items": [
+        {
+          "text": "Nullam laoreet",
+          "url": "https://vic.gov.au"
+        },
+        {
+          "text": "Morbi cursus placerat mi",
+          "url": "https://vic.gov.au"
+        }
+      ],
+      "more": {
+        "text": "Nullam laoreet",
+        "url": "https://vic.gov.au"
+      }
+    },
+    "backgroundImageCaption": null,
+    "theme": "reverse",
+    "logoImage": null,
+    "backgroundImage": {
+      "src": "/sites/default/files/tide_demo_content/Melbourne-skyline-at-dusk.jpg",
+      "alt": "Demo: Melbourne skyline at dusk",
+      "title": "Demo: Melbourne skyline at dusk",
+      "width": 2560,
+      "height": 650
+    },
+    "cornerTop": {
+      "src": "/sites/default/files/tide_demo_content/Parliament-of-Victoria.jpg"
+    },
+    "cornerBottom": null,
+    "primaryAction": {
+      "text": "Phasellus congue",
+      "url": "https://www.vic.gov.au"
+    },
+    "secondaryAction": {
+      "text": "Nullam laoreet",
+      "url": "https://vic.gov.au"
+    },
+    "secondaryActionLabel": "Nulla ultricies dignissim leo, posuere vestibulum erat cursus vitae"
+  },
+  "siteSection": {
+    "id": 9204,
+    "name": "Demo Section 2",
+    "siteOverrides": {
+      "showQuickExit": null,
+      "featureFlags": {}
+    }
+  },
+  "meta": {
+    "url": "/demo-landing-page",
+    "langcode": "en",
+    "description": "Nulla ultricies dignissim leo, posuere vestibulum erat cursus vitae",
+    "additional": [
+      {
+        "tag": "meta",
+        "attributes": {
+          "name": "title",
+          "content": "Demo Landing Page | Single Digital Presence Content Management System"
+        }
+      },
+      {
+        "tag": "meta",
+        "attributes": {
+          "name": "description",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tincidunt sit amet ligula sit amet lacinia. In a leo nec tortor aliquet faucibus."
+        }
+      },
+      {
+        "tag": "link",
+        "attributes": {
+          "rel": "canonical",
+          "href": "https://develop.content.reference.sdp.vic.gov.au/demo-landing-page"
+        }
+      },
+      {
+        "tag": "meta",
+        "attributes": {
+          "property": "og:image",
+          "content": "https://develop.content.reference.sdp.vic.gov.au/sites/default/files/tide_demo_content/Demo-tram.jpg"
+        }
+      },
+      {
+        "tag": "meta",
+        "attributes": {
+          "property": "og:locale",
+          "content": "en-AU"
+        }
+      }
+    ],
+    "keywords": "",
+    "image": {
+      "src": "/sites/default/files/tide_demo_content/Demo-tram.jpg",
+      "alt": "Demo: Placeholder",
+      "title": "Demo: Placeholder",
+      "width": 900,
+      "height": 700
+    }
+  },
+  "showContentRating": true,
+  "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tincidunt sit amet ligula sit amet lacinia. In a leo nec tortor aliquet faucibus.",
+  "showHeroAcknowledgement": false,
+  "showInPageNav": true,
+  "showHeroImageCaption": true,
+  "showTopicTags": true,
+  "inPageNavHeadingLevel": "h2",
+  "background": "default",
+  "primaryCampaign": {
+    "title": "Demo Campaign",
+    "summaryHtml": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vobis voluptatum perceptarum recordatio vitam beatam facit</p>",
+    "cta": {
+      "text": "Find out more",
+      "url": "https://www.vic.gov.au"
+    },
+    "image": {
+      "src": "/sites/default/files/tide_demo_content/Melbourne-skyline-at-dusk.jpg",
+      "alt": "Demo: Melbourne skyline at dusk",
+      "title": "Demo: Melbourne skyline at dusk",
+      "width": 2560,
+      "height": 650
+    },
+    "imageCaption": null
+  },
+  "secondaryCampaign": {
+    "title": "Another Demo Campaign",
+    "summaryHtml": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vobis voluptatum perceptarum recordatio vitam beatam facit</p>",
+    "cta": {
+      "text": "Find out more",
+      "url": "https://www.vic.gov.au"
+    },
+    "image": {
+      "src": "/sites/default/files/tide_demo_content/Demo-tram.jpg",
+      "alt": "Demo: Placeholder",
+      "title": "Demo: Placeholder",
+      "width": 900,
+      "height": 700
+    },
+    "imageCaption": null
+  },
+  "headerComponents": [
+    {
+      "uuid": "d9fed1a6-649c-4b2c-b001-cdd4bbc8d407",
+      "component": "TideLandingPageIntroBanner",
+      "id": "1536",
+      "props": {
+        "title": "Nulla ultricies dignissim leo, posuere vestibulum erat cursus vitae",
+        "withIcon": false,
+        "links": {
+          "title": null,
+          "items": [
+            {
+              "text": "Nullam laoreet",
+              "url": "https://vic.gov.au"
+            },
+            {
+              "text": "Morbi cursus placerat mi",
+              "url": "https://vic.gov.au"
+            }
+          ],
+          "type": "link",
+          "more": null
+        },
+        "html": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tincidunt sit amet ligula sit amet lacinia. In a leo nec tortor aliquet faucibus."
+      }
+    }
+  ],
+  "bodyComponents": [
+    {
+      "uuid": "88086aad-1324-45d8-a620-ace579cf9bf9",
+      "component": "TideLandingPageContent",
+      "id": "1518",
+      "internalAnchors": [
+        {
+          "text": "Nulla ultricies dignissim leo, posuere vestibulum erat cursus vitae",
+          "id": "nulla-ultricies-dignissim-leo-posuere-vestibulum-erat-cursus-vitae",
+          "type": "h2"
+        },
+        {
+          "text": "Phasellus congue aliquam vehicula",
+          "id": "phasellus-congue-aliquam-vehicula",
+          "type": "h3"
+        },
+        {
+          "text": "Donec scelerisque cursus ex varius efficitur",
+          "id": "donec-scelerisque-cursus-ex-varius-efficitur",
+          "type": "h3"
+        }
+      ],
+      "props": {
+        "html": "<h2 id=\"nulla-ultricies-dignissim-leo-posuere-vestibulum-erat-cursus-vitae\">Nulla ultricies dignissim leo, posuere vestibulum erat cursus vitae</h2>\n<h3 id=\"phasellus-congue-aliquam-vehicula\">Phasellus congue aliquam vehicula</h3>\n<p class=\"rpl-callout rpl-callout--neutral\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tincidunt sit amet ligula sit amet lacinia. In a leo nec tortor aliquet faucibus. Quisque nec congue ligula, vitae condimentum tellus. Nulla nec urna augue. Curabitur commodo nisi est, eu pulvinar tortor cursus vel. Morbi dictum ex est, et semper diam finibus eu. Cras rutrum, nunc a fringilla convallis, massa est vulputate velit, in blandit augue dui vitae elit. Donec hendrerit commodo augue, in maximus orci tempor congue. Mauris ultricies euismod orci, nec vehicula quam vehicula ac. Nunc dictum tortor dolor, nec eleifend orci luctus sed.</p>\n<h3 id=\"donec-scelerisque-cursus-ex-varius-efficitur\">Donec scelerisque cursus ex varius efficitur</h3>\n<h4>Morbi cursus placerat mi</h4>\n<h5>Nullam laoreet ante placerat</h5>\n<p>Integer interdum nisl ut neque dictum, et sagittis metus feugiat. Sed in mattis neque. Duis at risus non ipsum semper dapibus. Sed enim sapien, molestie sed commodo vel, lacinia vitae risus. Proin sagittis diam nisi, sed rhoncus diam varius id. Sed malesuada felis tortor, scelerisque pretium elit tempor non. Pellentesque ultrices volutpat tincidunt. Fusce quis viverra urna, quis finibus nulla.</p>\n\n<figure class=\"rpl-blockquote\">\n  <blockquote class=\"rpl-blockquote__quote\">\n  <p class=\"rpl-type-p-large-fixed\">Mauris tincidunt tincidunt felis vel tempus. Vestibulum rhoncus blandit justo quis finibus. Phasellus lacus lectus, sollicitudin sed posuere non, ultricies ut quam.</p>\n  \n</blockquote><figcaption class=\"rpl-blockquote__author rpl-type-label-small\"><span class=\"rpl-blockquote__author-name\">Duis ligula lacus</span><span class=\"rpl-blockquote__author-name\">Phasellus est turpis, efficitur nec odio imperdiet</span></figcaption>\n</figure>\n\nMauris tincidunt tincidunt felis vel tempus\n<div class=\"rpl-media-embed rpl-media-embed--background\">\n        <figure class=\"rpl-media-embed__main--contain\">\n          <img src=\"https://develop.content.reference.sdp.vic.gov.au/sites/default/files/tide_demo_content/Demo-tram.jpg\" class=\"rpl-image\" width=\"900\" height=\"700\" alt=\"Demo: Placeholder\" srcset=\"https://develop.content.reference.sdp.vic.gov.au/sites/default/files/tide_demo_content/Demo-tram.jpg?width=720, https://develop.content.reference.sdp.vic.gov.au/sites/default/files/tide_demo_content/Demo-tram.jpg?width=1440 2x\">\n        </figure>\n      </div>\n\n<p>Phasellus in varius leo. Suspendisse potenti. Donec scelerisque cursus ex varius efficitur. Vivamus pretium nisi sed libero accumsan mattis. Duis convallis, velit eget varius tempus, orci erat aliquam sem, eget porta mauris nisl at mauris.</p>\n\n<figure class=\"rpl-document\">\n  <a class=\"rpl-document__link rpl-u-focusable-within\" aria-label=\"Demo Sample Document File type: Word. Size: 7.53 KB.\" href=\"https://develop.content.reference.sdp.vic.gov.au/sites/default/files/tide_demo_content/sample.docx\" target=\"_blank\">\n    <span class=\"rpl-document__icon rpl-icon rpl-icon--size-l rpl-icon--colour-default rpl-icon--icon-document-lined\">\n      <svg role=\"presentation\"><use xlink:href=\"#icon-document-lined\"></use></svg>\n    </span>\n    <div class=\"rpl-document__content\">\n      <span class=\"rpl-document__name rpl-type-p rpl-type-weight-bold rpl-u-focusable-inline\">Demo Sample Document</span>\n      <div class=\"rpl-document__info rpl-type-label-small\">\n        <span class=\"rpl-file__meta\">Word</span>\n        <span class=\"rpl-file__meta\">7.53 KB</span>\n      </div>\n    </div>\n    <span class=\"rpl-u-visually-hidden\">(opens in a new window)</span>\n  </a>\n</figure>\n\n"
+      }
+    },
+    {
+      "uuid": "aa89a8a2-4e11-4fec-8b84-4bdeaa91c703",
+      "component": "TideLandingPageAccordion",
+      "id": "1522",
+      "title": "Accordion header (basic)",
+      "props": {
+        "id": "1522",
+        "description": "",
+        "numbered": true,
+        "items": [
+          {
+            "id": "1519",
+            "title": "Accordion #1",
+            "content": "<p>Phasellus in varius leo. Suspendisse potenti. Donec scelerisque cursus ex varius efficitur. Vivamus pretium nisi sed libero accumsan mattis. Duis convallis, velit eget varius tempus, orci erat aliquam sem, eget porta mauris nisl at mauris.</p>"
+          },
+          {
+            "id": "1520",
+            "title": "Accordion #2",
+            "content": "<p>Mauris tincidunt tincidunt felis vel tempus. Vestibulum rhoncus blandit justo quis finibus. Phasellus lacus lectus, sollicitudin sed posuere non, ultricies ut quam.</p>"
+          },
+          {
+            "id": "1521",
+            "title": "Accordion #3",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tincidunt sit amet ligula sit amet lacinia. In a leo nec tortor aliquet faucibus. Quisque nec congue ligula, vitae condimentum tellus.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "d5bf6ec2-a000-407a-954e-cbd2c3177dff",
+      "component": "TideLandingPageAccordion",
+      "id": "1526",
+      "title": "Accordion header (numbered)",
+      "props": {
+        "id": "1526",
+        "description": "",
+        "numbered": true,
+        "items": [
+          {
+            "id": "1523",
+            "title": "Accordion #1",
+            "content": "<p>Phasellus in varius leo. Suspendisse potenti. Donec scelerisque cursus ex varius efficitur. Vivamus pretium nisi sed libero accumsan mattis. Duis convallis, velit eget varius tempus, orci erat aliquam sem, eget porta mauris nisl at mauris.</p>"
+          },
+          {
+            "id": "1524",
+            "title": "Accordion #2",
+            "content": "<p>Mauris tincidunt tincidunt felis vel tempus. Vestibulum rhoncus blandit justo quis finibus. Phasellus lacus lectus, sollicitudin sed posuere non, ultricies ut quam.</p>"
+          },
+          {
+            "id": "1525",
+            "title": "Accordion #3",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tincidunt sit amet ligula sit amet lacinia. In a leo nec tortor aliquet faucibus. Quisque nec congue ligula, vitae condimentum tellus.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "487a75e2-6683-4707-b402-1808b061df78",
+      "component": "TideLandingPageCardCarousel",
+      "id": "1527",
+      "title": "Latest items (Event)",
+      "props": {
+        "items": [
+          {
+            "type": "promo",
+            "title": "2-BE-event-1",
+            "url": "/2-be-event-1",
+            "image": {
+              "src": "/sites/default/files/tide_demo_content/Demo-tram.jpg",
+              "alt": "Demo: Placeholder",
+              "title": "Demo: Placeholder",
+              "width": 900,
+              "height": 700
+            },
+            "meta": {
+              "topic": null,
+              "dateStart": "2019-05-20T21:02:20+1000",
+              "dateEnd": "2019-05-20T21:11:01+1000"
+            },
+            "summary": "Tell me, O muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs END"
+          },
+          {
+            "type": "promo",
+            "title": "Event Page Content Collection",
+            "url": "/event-page-content-collection",
+            "image": {
+              "src": "/sites/default/files/tide_demo_content/Demo-tram.jpg",
+              "alt": "Demo: Placeholder",
+              "title": "Demo: Placeholder",
+              "width": 900,
+              "height": 700
+            },
+            "meta": {
+              "topic": null,
+              "dateStart": "2019-06-20T21:02:20+1000",
+              "dateEnd": "2019-06-20T21:11:01+1000"
+            },
+            "summary": "Tell me, O muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs END"
+          },
+          {
+            "type": "promo",
+            "title": "Demo Event",
+            "url": "/demo-event",
+            "image": {
+              "src": "/sites/default/files/tide_demo_content/Demo-tram.jpg",
+              "alt": "Demo: Placeholder",
+              "title": "Demo: Placeholder",
+              "width": 900,
+              "height": 700
+            },
+            "meta": {
+              "topic": null,
+              "dateStart": "2019-07-02T09:00:00+1000",
+              "dateEnd": "2019-07-07T10:00:00+1000"
+            },
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tincidunt sit amet ligula sit amet lacinia. In a leo nec tortor aliquet faucibus."
+          },
+          {
+            "type": "promo",
+            "title": "Roulette Aerial Display - demo",
+            "url": "/roulette-aerial-display-demo",
+            "image": {
+              "src": "/sites/default/files/tide_demo_content/roulette-aerial-display-card.jpg",
+              "alt": "Demo: Roulette aerial display",
+              "title": "Demo: Roulette aerial display",
+              "width": 818,
+              "height": 496
+            },
+            "meta": {
+              "topic": null,
+              "dateStart": "2022-01-26T23:30:00+1100",
+              "dateEnd": "2022-01-26T23:45:00+1100"
+            },
+            "summary": "Air Force Roulettes at Australia Day in Victoria."
+          },
+          {
+            "type": "promo",
+            "title": "The Trades Fit: Young Women in Trades and Tech - demo",
+            "url": "/trades-fit-young-women-trades-and-tech-demo",
+            "image": null,
+            "meta": {
+              "topic": null,
+              "dateStart": "2022-05-16T19:30:00+1000",
+              "dateEnd": "2022-05-18T01:30:00+1000"
+            },
+            "summary": "The Trades Fit expo demonstrates the exciting world of trade and tech industries to young women and the rewarding, and well-paid career opportunities they can provide."
+          },
+          {
+            "type": "promo",
+            "title": "Kensington Primary School - information session - demo",
+            "url": "/kensington-primary-school-information-session-demo",
+            "image": null,
+            "meta": {
+              "topic": null,
+              "dateStart": "2022-10-13T05:00:00+1100",
+              "dateEnd": "2022-10-13T05:45:00+1100"
+            },
+            "summary": "An online information session for school and community members to discuss Kensington Primary School's exciting upgrade project."
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "5e21c73b-a183-416f-8579-852ac8c6826e",
+      "component": "TideLandingPageCardCarousel",
+      "id": "1528",
+      "title": "Latest items (News)",
+      "props": {
+        "items": [
+          {
+            "type": "promo",
+            "title": "News Page Content Collection",
+            "url": "/news-page-content-collection",
+            "image": {
+              "src": "/sites/default/files/tide_demo_content/Demo-tram.jpg",
+              "alt": "Demo: Placeholder",
+              "title": "Demo: Placeholder",
+              "width": 900,
+              "height": 700
+            },
+            "meta": {
+              "topic": "Content Collection All Topic",
+              "date": "2050-08-02T09:00:00+10:00"
+            },
+            "summary": "NP1 Etiam scelerisque lorem sit amet sapien iaculis, nec dignissim augue cursus. Mauris eu purus a neque tristique venenatis sit amet sed sem. Aenean viverra lectus ut tempus sollicitudin."
+          },
+          {
+            "type": "promo",
+            "title": "News for CC 1",
+            "url": "/news-cc-1",
+            "image": {
+              "src": "/sites/default/files/tide_demo_content/Demo-tram.jpg",
+              "alt": "Demo: Placeholder",
+              "title": "Demo: Placeholder",
+              "width": 900,
+              "height": 700
+            },
+            "meta": {
+              "topic": "Content Collection Topic 1",
+              "date": "2050-07-02T09:00:00+10:00"
+            },
+            "summary": "NP1 Etiam scelerisque lorem sit amet sapien iaculis, nec dignissim augue cursus. Mauris eu purus a neque tristique venenatis sit amet sed sem. Aenean viverra lectus ut tempus sollicitudin."
+          },
+          {
+            "type": "promo",
+            "title": "News for CC 2",
+            "url": "/news-cc-2",
+            "image": null,
+            "meta": {
+              "topic": "Content Collection Topic 1",
+              "date": "2048-07-02T09:00:00+10:00"
+            },
+            "summary": "NP2 Pellentesque a pharetra magna. Pellentesque vitae est a sapien mi enim, eu sodales diam pretium in. Quisque vitae quam et lectus condimentum ultricies."
+          },
+          {
+            "type": "promo",
+            "title": "TAV2: Author detail news - fixture",
+            "url": "/tav2-author-detail-news-fixture",
+            "image": null,
+            "meta": {
+              "topic": "Another Demo Topic",
+              "date": "2026-04-21T18:21:59+10:00"
+            },
+            "summary": "Some summary text"
+          },
+          {
+            "type": "promo",
+            "title": "TAV2: news with file news - fixture",
+            "url": "/tav2-news-file-news-fixture",
+            "image": null,
+            "meta": {
+              "topic": "Another Demo Topic",
+              "date": "2026-04-21T18:21:59+10:00"
+            },
+            "summary": "Some summary text"
+          },
+          {
+            "type": "promo",
+            "title": "TAV2: Header news - fixture",
+            "url": "/tav2-header-news-fixture",
+            "image": null,
+            "meta": {
+              "topic": "Another Demo Topic",
+              "date": "2026-04-21T18:21:58+10:00"
+            },
+            "summary": "Some summary text"
+          },
+          {
+            "type": "promo",
+            "title": "TAV2: Featured Image news - fixture",
+            "url": "/tav2-featured-image-news-fixture",
+            "image": {
+              "src": "/sites/default/files/tide_demo_content/Demo-tram.jpg",
+              "alt": "Demo: Placeholder",
+              "title": "Demo: Placeholder",
+              "width": 900,
+              "height": 700
+            },
+            "meta": {
+              "topic": "Another Demo Topic",
+              "date": "2026-04-21T18:21:58+10:00"
+            },
+            "summary": "Some summary text"
+          },
+          {
+            "type": "promo",
+            "title": "TAV2: Related links news - fixture",
+            "url": "/tav2-related-links-news-fixture",
+            "image": null,
+            "meta": {
+              "topic": "Another Demo Topic",
+              "date": "2026-04-21T18:19:17+10:00"
+            },
+            "summary": "Some summary text"
+          },
+          {
+            "type": "promo",
+            "title": "News for CC 3",
+            "url": "/news-cc-3",
+            "image": {
+              "src": "/sites/default/files/tide_demo_content/Demo-tram.jpg",
+              "alt": "Demo: Placeholder",
+              "title": "Demo: Placeholder",
+              "width": 900,
+              "height": 700
+            },
+            "meta": {
+              "topic": "Content Collection Topic 2",
+              "date": "2026-04-21T18:11:27+10:00"
+            },
+            "summary": "NP3 Suspendisse condimentum turpis fermentum lectus feugiat massa maximus at. In hendrerit gravida imperdiet. Donec rutrum turpis et tempor pulvinar."
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "e38510c6-d3cf-43d0-84bf-8c86854e0f41",
+      "component": "TideLandingPagePromoCard",
+      "id": "1529",
+      "layout": "card",
+      "props": {
+        "displayStyle": "noImage",
+        "title": "Card Promotion",
+        "summary": "Mauris tincidunt tincidunt felis vel tempus. Vestibulum rhoncus blandit justo quis finibus.",
+        "image": {
+          "src": "/sites/default/files/tide_demo_content/Demo-tram.jpg",
+          "alt": "Demo: Placeholder",
+          "title": "Demo: Placeholder",
+          "width": 900,
+          "height": 700
+        },
+        "url": "https://www.vic.gov.au",
+        "showMetadata": true,
+        "metadata": {
+          "dateStart": "",
+          "dateEnd": "",
+          "topic": "",
+          "contentType": "",
+          "fvRecommendationStatus": "",
+          "inductionYear": "",
+          "isGrantOngoing": false
+        }
+      }
+    },
+    {
+      "uuid": "d065a4b1-ab14-4afb-9a3d-df1390deaf59",
+      "component": "TideLandingPageNavCard",
+      "id": "1530",
+      "props": {
+        "displayStyle": "noImage",
+        "title": "Navigation card",
+        "summary": "Mauris tincidunt tincidunt felis vel tempus. Vestibulum rhoncus blandit justo quis finibus.",
+        "image": {
+          "src": "/sites/default/files/tide_demo_content/Demo-tram.jpg",
+          "alt": "Demo: Placeholder",
+          "title": "Demo: Placeholder",
+          "width": 900,
+          "height": 700
+        },
+        "url": "https://www.vic.gov.au",
+        "showMetadata": false,
+        "metadata": {
+          "dateStart": "",
+          "dateEnd": "",
+          "topic": "",
+          "contentType": "",
+          "fvRecommendationStatus": "",
+          "inductionYear": "",
+          "isGrantOngoing": false
+        }
+      }
+    },
+    {
+      "uuid": "045b0c88-ae21-47a7-9ffc-fb01579b9f06",
+      "component": "TideLandingPageMediaGallery",
+      "id": "1531",
+      "props": {
+        "id": "1531",
+        "items": [
+          {
+            "title": "Demo: 2018-19 State Budget",
+            "caption": null,
+            "alt": "Demo: 2018-19 State Budget",
+            "thumbnail": "/sites/default/files/tide_demo_content/2018-19-State-Budget.jpg",
+            "image": "/sites/default/files/tide_demo_content/2018-19-State-Budget.jpg"
+          },
+          {
+            "title": "Demo: Aerial shot of new housing development",
+            "caption": null,
+            "alt": "Demo: Aerial shot of new housing development",
+            "thumbnail": "/sites/default/files/tide_demo_content/Aerial-shot-of-new-housing-development.jpg",
+            "image": "/sites/default/files/tide_demo_content/Aerial-shot-of-new-housing-development.jpg"
+          },
+          {
+            "title": "Demo: Bendigo Hospital",
+            "caption": null,
+            "alt": "Demo: Bendigo Hospital",
+            "thumbnail": "/sites/default/files/tide_demo_content/Bendigo-Hospital.jpg",
+            "image": "/sites/default/files/tide_demo_content/Bendigo-Hospital.jpg"
+          },
+          {
+            "title": "Demo: Placeholder",
+            "caption": null,
+            "alt": "Demo: Placeholder",
+            "thumbnail": "/sites/default/files/tide_demo_content/Demo-tram.jpg",
+            "image": "/sites/default/files/tide_demo_content/Demo-tram.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}
