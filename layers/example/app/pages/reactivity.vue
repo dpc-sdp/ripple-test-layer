@@ -42,7 +42,7 @@
     </template>
     <template #body="{ hasSidebar }">
       <RplCardGrid :hasSidebar="Boolean(hasSidebar)" :columns="3">
-        <RplPageComponent v-for="(card, idx) in dynamicCards" :key="`card-${idx}`">
+        <RplPageComponent v-for="(card, idx) in cards" :key="`card-${idx}`">
           <RplPromoCard
             v-if="card.type === 'grant'"
             el="li"
@@ -97,26 +97,13 @@ import {
   cards
 } from './../../data/nav'
 
-const filteredCards = cards.filter((card) => card.id !== 'card-3')
-
-const dynamicCards = ref([...cards])
 
 const handleButtonClick = () => {
- dynamicCards.value.push({
-    id: 'card-new',
-    title: 'New Card',
-    content: '<p>This is a new card added on button click.</p>',
-    type: 'grant',
-    url: 'https://www.example.com',
-    image: {
-      src: '/image.jpg',
-      alt: 'image'
-    }
-  })
+  console.log('Button clicked, make it add a card')
 }
 
 const handleResetButtonClick = () => {
-  dynamicCards.value = [...cards]
+  console.log('Button clicked, make reset cards back to the initial state')
 }
 
 const alertMessage = 'This is an EMERGENCY!!!! alert sdfs d sd'
