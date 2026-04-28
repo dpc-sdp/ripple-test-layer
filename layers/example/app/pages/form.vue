@@ -44,19 +44,7 @@
       <h2 class="rpl-type-h2">This is a form</h2>
       <p class="rpl-type-p">This is a form to test the RplForm and RplFormElement components.</p>
       <RplPageComponent>
-        <RplForm id="testform" title="Test form">
-          <RplFormElement type="RplFormText" label="text" help="This is help text" />
-          <RplFormElement type="RplFormDate" label="date" />
-          <RplFormElement type="RplFormDropdown" label="date" :options="dropDownOptions" />
-          <RplFormElement type="RplFormActions" label="Submit form" />
 
-          <template #belowForm="{ value }">
-            <div class="rpl-storybook-form-values rpl-u-margin-t-6">
-              <h2 class="rpl-type-h4">Internal form values</h2>
-              <pre wrap>{{ value }}</pre>
-            </div>
-          </template>
-        </RplForm>
       </RplPageComponent>
     </template>
     <template #sidebar>
