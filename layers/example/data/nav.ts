@@ -126,6 +126,7 @@ export const cards = [
   {
     url: 'https://www.vic.gov.au',
     title: 'Small Business Ventilation Program',
+    type: 'grant',
     image: {
       src: '/image.jpg',
       alt: 'image'
@@ -136,6 +137,7 @@ export const cards = [
   {
     url: 'https://www.vic.gov.au',
     title: 'Small Business Ventilation Program',
+    type: 'grant',
     image: {
       src: '/image.jpg',
       alt: 'image'
@@ -146,6 +148,7 @@ export const cards = [
   {
     url: 'https://www.vic.gov.au',
     title: 'Small Business Ventilation Program',
+    type: 'notgrant',
     image: {
       src: '/image.jpg',
       alt: 'image'
